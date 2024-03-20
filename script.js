@@ -51,12 +51,11 @@ option = {
         borderRadius: 0
       },
       data: [
-        { value: 40, name: "Reserves" },
-        { value: 20, name: "Investors" },
-        { value: 20, name: "Team" },
-        { value: 10, name: "Treasury" },
-        { value: 5, name: "IDO / IEO" },
-        { value: 5, name: "Others" },
+        { value: 35, name: "CoinSale" },
+        { value: 55, name: "Staking Rewards" },
+        { value: 2, name: "Team" },
+        { value: 5, name: "Initiatives" },
+        { value: 3, name: "CEX liquidity" },
       ]
     }
   ]
