@@ -53,9 +53,8 @@ option = {
       data: [
         { value: 35, name: "CoinSale" },
         { value: 55, name: "Staking Rewards" },
-        { value: 2, name: "Team" },
+        { value: 5, name: "Team" },
         { value: 5, name: "Initiatives" },
-        { value: 3, name: "CEX liquidity" },
       ]
     }
   ]
