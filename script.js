@@ -3,7 +3,7 @@ var myChart = echarts.init(chartDom, { renderer: "svg" });
 var option;
 
 option = {
-  backgroundColor: "#171717",
+  backgroundColor: "#150220",
   color: ["#ef476f", "#f4a261", "#ffd166", "#06d6a0", "#118ab2", "#073b4c", "#f8961e"],
   legend: {
     show: true,
