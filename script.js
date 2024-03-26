@@ -6,10 +6,10 @@ option = {
   backgroundColor: "#171717",
   color: ["#ef476f", "#f4a261", "#ffd166", "#06d6a0", "#118ab2", "#073b4c", "#f8961e"],
   legend: {
-    show: false
+    show: true
   },
   toolbox: {
-    show: true,
+    show: false,
     feature: {
       saveAsImage: { show: true }
     }
