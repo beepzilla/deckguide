@@ -12,17 +12,17 @@ html, body {
 .title {
   text-align: center;
   font-family: 'Press Start 2P', cursive;
-  color: ##00ff00;
+  color: #00FF00; /* Neon green for the top "Tokenomics" title */
   margin: 20px 0;
 }
 
 .container {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly; /* Adjusted to space-evenly for better positioning */
+  justify-content: space-evenly;
   align-items: center;
-  max-width: 800px; /* Set a max width for the container */
-  margin: auto; /* Center the container horizontally */
+  max-width: 800px;
+  margin: auto;
 }
 
 #main {
@@ -31,10 +31,14 @@ html, body {
 }
 
 .tokenomics-info {
-  color: ##FF7034;
+  color: #FF7034; /* Neon orange for the rest of the text */
   border: 2px solid #ffffff;
   padding: 10px;
   border-radius: 10px;
+}
+
+.tokenomics-info h2 {
+  color: #00FF00; /* Neon green for the second "Tokenomics" */
 }
 
 .tokenomics-info ul {
