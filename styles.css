@@ -12,7 +12,7 @@ html, body {
 .title {
   text-align: center;
   font-family: 'Press Start 2P', cursive;
-  color: #FF7034; /* Neon green for the top "Tokenomics" title */
+  color: #00ff00; /* Neon green for the top "Tokenomics" title */
   margin: 20px 0;
 }
 
@@ -38,7 +38,7 @@ html, body {
 }
 
 .tokenomics-info h2 {
-  color: #FF7034; /* Neon green for the second "Tokenomics" */
+  color: #00ff00; /* Neon green for the second "Tokenomics" */
 }
 
 .tokenomics-info ul {
