@@ -19,18 +19,18 @@ html, body {
 .container {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly; /* Adjusted to space-evenly for better positioning */
   align-items: center;
+  max-width: 800px; /* Set a max width for the container */
+  margin: auto; /* Center the container horizontally */
 }
 
 #main {
   width: 400px;
   height: 400px;
-  margin: auto;
 }
 
 .tokenomics-info {
-  margin-left: 20px;
   color: #ffffff;
   border: 2px solid #ffffff;
   padding: 10px;
