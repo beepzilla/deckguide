@@ -12,7 +12,7 @@ html, body {
 .title {
   text-align: center;
   font-family: 'Press Start 2P', cursive;
-  color: #ffffff;
+  color: ##00ff00;
   margin: 20px 0;
 }
 
@@ -31,7 +31,7 @@ html, body {
 }
 
 .tokenomics-info {
-  color: #ffffff;
+  color: ##FF7034;
   border: 2px solid #ffffff;
   padding: 10px;
   border-radius: 10px;
